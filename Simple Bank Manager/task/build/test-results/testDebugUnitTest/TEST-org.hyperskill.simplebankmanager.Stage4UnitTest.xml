@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.simplebankmanager.Stage4UnitTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-01-06T14:51:48" hostname="VITALIY-DESKTOP" time="1.231">
+  <properties/>
+  <testcase name="test00_checkNavigationOnCalculateExchange" classname="org.hyperskill.simplebankmanager.Stage4UnitTest" time="0.21"/>
+  <testcase name="test01_convertEURtoGBP" classname="org.hyperskill.simplebankmanager.Stage4UnitTest" time="0.12"/>
+  <testcase name="test02_convertUSDtoEUR" classname="org.hyperskill.simplebankmanager.Stage4UnitTest" time="0.108"/>
+  <testcase name="test03_convertGBPtoEUR" classname="org.hyperskill.simplebankmanager.Stage4UnitTest" time="0.107"/>
+  <testcase name="test04_CheckForErrorSameCurrenciesSelected" classname="org.hyperskill.simplebankmanager.Stage4UnitTest" time="0.101"/>
+  <testcase name="test05_CheckForErrorEmptyAmount" classname="org.hyperskill.simplebankmanager.Stage4UnitTest" time="0.161"/>
+  <testcase name="test06_CheckIfSameCurrencyCanBeSelected" classname="org.hyperskill.simplebankmanager.Stage4UnitTest" time="0.102"/>
+  <testcase name="test07_convertAllDefaultMap" classname="org.hyperskill.simplebankmanager.Stage4UnitTest" time="0.177"/>
+  <testcase name="test08_convertAllCustomMap" classname="org.hyperskill.simplebankmanager.Stage4UnitTest" time="0.144"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
